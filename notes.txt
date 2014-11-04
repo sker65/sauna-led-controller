@@ -1,0 +1,13 @@
+Uses:
+
+https://github.com/shirriff/Arduino-IRremote
+
+Links:
+
+http://blog.simtronyx.de/eine-rgb-led-bibliothek-fuer-den-arduino/
+
+http://blog.simtronyx.de/arduino-rgb-led-strip-steuerung-mit-mosfets-und-optokopplern-teil-1-die-hardware/
+
+http://www.jerome-bernard.com/blog/2013/01/12/rgb-led-strip-controlled-by-an-arduino/
+
+
